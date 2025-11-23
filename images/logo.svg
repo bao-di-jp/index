@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 150" version="1.1">
+  <defs>
+    <style>
+      .st0 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g>
+    <text x="50" y="125" class="st0" font-family="Hiragino Kaku Gothic ProN, 'Yu Gothic', Meiryo, sans-serif" font-size="80" font-weight="bold" stroke="#333" stroke-width="1">宝帝株式会社</text>
+  </g>
+  <g>
+    <text x="150" y="30" class="st0" font-family="Arial, sans-serif" font-size="28">安心と信頼の不動産会社</text>
+  </g>
+</svg>
